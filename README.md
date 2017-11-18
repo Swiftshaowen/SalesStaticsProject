@@ -1,2 +1,2 @@
 # SalesStaticsProject
-The statics of sales
+A app for statics of sales
