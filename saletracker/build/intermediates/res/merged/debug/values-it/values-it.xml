@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="app_name">STS</string>
+    <string name="btn_test">开始</string>
+    <string name="btn_test1">复位</string>
+    <string name="clear">清除销售追踪最终发送结果</string>
+    <string name="day_set_text">当天发送三次失败后第二天发送的间隔时间（分）</string>
+    <string name="dialog_continue">Continue</string>
+    <string name="dialog_message">text</string>
+    <string name="dialog_message_promp">Press Continue to register your phone with us for warranty services, updates and more.\n *Standard SMS charges applicable.</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_pop_contact">Press Yes to register your handset to Wiko.</string>
+    <string name="dialog_pop_title">Warning</string>
+    <string name="dialog_title">Information</string>
+    <string name="dialog_title_promp">Registration</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="maxtime">开机多长时间启动（分钟）：</string>
+    <string name="notify">弹出框是否弹出</string>
+    <string name="process" translate="false"><ns1:g id="x"/></string>
+    <string name="save">保存</string>
+    <string name="sharedUserId" translate="false"><ns1:g id="x"/></string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="testtime">错误请求的间隔时间(分钟，最小值为1)：</string>
+    <string name="version">版本号:v2.0</string>
+    <string name="wiko_sts_text1">Ci congratuliamo con Lei per aver scelto un telefono WIKO!</string>
+    <string name="wiko_sts_text2">WIKO si impegna a garantirLe un servizio di assistenza tecnica personalizzato e in tempo reale per il Suo dispositivo.</string>
+    <string name="wiko_sts_text3">Registrando il suo telefono ci consentirà di inviarLe gli aggiornamenti disponibili e gli eventuali upgrade.</string>
+    <string name="wiko_sts_text4">"*Convalidando la registrazione del vostro telephono presso Wiko, riconoscete avere letto ed accettato il consenso sull\'uso dei dati inclusi nelle avvertenze d’uso del vostro telefono fornite o disponibile sul nostro sito Internet wikomobile.com."</string>
+    <string name="wiko_sts_title">WIKO:</string>
+</resources>

@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+	android:sharedUserId
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:4:5-46
+	android:versionName
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:9:5-74
+MERGED from [com.android.support:design:23.1.0] /home/weijie/.android/build-cache/5d5074c2997ceea0900960ffc918d5575ed1a537/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] /home/weijie/.android/build-cache/6f80639a00860fa161b11cf2656f8650b7af47eb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] /home/weijie/.android/build-cache/f3bb1bcd93db1032d8d63e66d5103bb6103daf1b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/weijie/.android/build-cache/0b144095cfeae2162ce7b8c94ab6543340de8668/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:9:42-71
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:9:15-41
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+		INJECTED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_SMS
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:12:22-67
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:13:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.INTERNET
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:16:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:20:22-76
+protected-broadcast
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:22:26-72
+application
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:24:5-75:19
+MERGED from [com.android.support:design:23.1.0] /home/weijie/.android/build-cache/5d5074c2997ceea0900960ffc918d5575ed1a537/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /home/weijie/.android/build-cache/6f80639a00860fa161b11cf2656f8650b7af47eb/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/weijie/.android/build-cache/0b144095cfeae2162ce7b8c94ab6543340de8668/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:25:9-41
+	android:debuggable
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:26:9-35
+activity#com.ape.saletracker.SaleTrackerActivity
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:28:9-41:20
+	android:label
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:29:13-48
+intent-filter#android.intent.action.MAIN
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:32:25-66
+receiver#com.ape.saletracker.SaleTrackerSecretCode
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:50:9-58:20
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:50:19-75
+intent-filter#android.provider.Telephony.SECRET_CODE
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:51:13-57:29
+action#android.provider.Telephony.SECRET_CODE
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:52:17-81
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:52:25-78
+data
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:54:17-56:60
+	android:host
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:55:21-40
+	android:scheme
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:56:21-57
+service#com.ape.saletracker.SaleTrackerService
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:60:9-61:19
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:60:18-71
+receiver#com.ape.saletracker.SaleTrackerBootReceiver
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:63:9-67:20
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:63:19-77
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:64:13-66:29
+	android:priority
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:64:28-50
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:65:17-79
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:65:25-76
+activity#com.ape.saletracker.WIKOSTSScreen
+ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:69:9-74:20
+	android:excludeFromRecents
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:71:13-46
+	android:icon
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:72:13-60
+	android:theme
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:73:13-60
+	android:name
+		ADDED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:70:13-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:2:1-77:12 reason: com.android.common has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/AndroidManifest.xml:2:1-77:12 reason: com.android.common requested WRITE_EXTERNAL_STORAGE

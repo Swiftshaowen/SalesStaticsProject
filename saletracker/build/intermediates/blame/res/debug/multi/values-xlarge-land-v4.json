@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/weijie/.android/build-cache/6f80639a00860fa161b11cf2656f8650b7af47eb/output/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 63,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

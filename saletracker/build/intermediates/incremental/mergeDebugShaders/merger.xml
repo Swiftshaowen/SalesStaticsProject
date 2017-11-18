@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/src/debug/shaders"/></dataSet></merger>

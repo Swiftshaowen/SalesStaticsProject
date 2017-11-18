@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/weijie/AndroidStudioProjects/SaleTrackerProject/saletracker/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/weijie/.android/build-cache/6f80639a00860fa161b11cf2656f8650b7af47eb/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 55,
+                        "endOffset": 338
+                    }
+                }
+            }
+        ]
+    }
+]
